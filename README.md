@@ -44,8 +44,8 @@ python src/inference.py --image example_image.png
 ## 📊 Model Performance
 | Metric  | Value  |
 |---------|--------|
-| Train Accuracy | TBD |
-| Test Accuracy  | TBD |
+| Train Accuracy | 82% |
+| Test Accuracy  | 81% |
 
 ## 🔧 Customization
 - Modify `squeezenet.py` to tweak model parameters.
